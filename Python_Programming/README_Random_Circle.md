@@ -15,7 +15,7 @@
 
 ## 관련 파일
 
-- [Python 소스](<../../Python_Programming/Project01_겹치지 않는 랜덤 원 배치 생성.py>)
+- [Python 소스](<Project01_겹치지 않는 랜덤 원 배치 생성.py>)
 
 ## 배운 점
 

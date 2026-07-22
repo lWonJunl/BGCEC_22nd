@@ -15,7 +15,7 @@
 
 ## 관련 파일
 
-- [Python 소스](<../../Python_Programming/Project03_원자모형 시뮬레이터 프로젝트.py>)
+- [Python 소스](<Project03_원자모형 시뮬레이터 프로젝트.py>)
 
 ## 배운 점
 

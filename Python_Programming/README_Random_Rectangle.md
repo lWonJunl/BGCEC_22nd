@@ -15,7 +15,7 @@
 
 ## 관련 파일
 
-- [Python 소스](<../../Python_Programming/Project02_겹치지 않는 랜덤 사각형 생성.py>)
+- [Python 소스](<Project02_겹치지 않는 랜덤 사각형 생성.py>)
 
 ## 배운 점
 
