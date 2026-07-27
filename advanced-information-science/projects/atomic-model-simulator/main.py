@@ -378,7 +378,7 @@ while True:
             cycle4(100)
             et9.goto(x4,y4)
             et10.goto(-x4,-y4)
-            ctcle4(150)
+            cycle4(150)
             et17.goto(x4,y4)
             pd(17)
             i=i+0.01
